@@ -16,7 +16,7 @@ A dual-function AI tool to:
 - Streamlit
 - Ollama (LLaMA2 model)
 
-## 🛠️ Setup
+## Setup
 
 ```bash
 ollama pull llama2
